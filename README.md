@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Sahil Tomar.
-- 👀 I’m interested in DSA and ML.
+- 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning C++.
 
 <!---
